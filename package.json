@@ -1,0 +1,7 @@
+{
+  "name": "typescript-projects",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^4.4.2"
+  }
+}

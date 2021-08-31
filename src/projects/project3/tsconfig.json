@@ -1,0 +1,10 @@
+{
+    "extends": "../../../tsconfig-base.json",
+    "references": [
+        { "path": "../../common/common2" },
+        { "path": "../../common/common3" }
+    ],
+    "compilerOptions": {
+        "outDir": "../../../dist/projects/project3"
+    }
+}
